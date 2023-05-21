@@ -1,0 +1,15 @@
+C:\Users\Umut-PC\source\repos\ServerTest\ServerTest\obj\Debug\ServerTest.csproj.AssemblyReference.cache
+C:\Users\Umut-PC\source\repos\ServerTest\ServerTest\obj\Debug\MainWindow.g.cs
+C:\Users\Umut-PC\source\repos\ServerTest\ServerTest\obj\Debug\App.g.cs
+C:\Users\Umut-PC\source\repos\ServerTest\ServerTest\obj\Debug\ServerTest_MarkupCompile.cache
+C:\Users\Umut-PC\source\repos\ServerTest\ServerTest\obj\Debug\ServerTest_MarkupCompile.lref
+C:\Users\Umut-PC\source\repos\ServerTest\ServerTest\bin\Debug\ServerTest.exe.config
+C:\Users\Umut-PC\source\repos\ServerTest\ServerTest\bin\Debug\ServerTest.exe
+C:\Users\Umut-PC\source\repos\ServerTest\ServerTest\bin\Debug\ServerTest.pdb
+C:\Users\Umut-PC\source\repos\ServerTest\ServerTest\obj\Debug\MainWindow.baml
+C:\Users\Umut-PC\source\repos\ServerTest\ServerTest\obj\Debug\ServerTest.g.resources
+C:\Users\Umut-PC\source\repos\ServerTest\ServerTest\obj\Debug\ServerTest.Properties.Resources.resources
+C:\Users\Umut-PC\source\repos\ServerTest\ServerTest\obj\Debug\ServerTest.csproj.GenerateResource.cache
+C:\Users\Umut-PC\source\repos\ServerTest\ServerTest\obj\Debug\ServerTest.csproj.CoreCompileInputs.cache
+C:\Users\Umut-PC\source\repos\ServerTest\ServerTest\obj\Debug\ServerTest.exe
+C:\Users\Umut-PC\source\repos\ServerTest\ServerTest\obj\Debug\ServerTest.pdb

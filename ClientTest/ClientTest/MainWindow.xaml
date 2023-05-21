@@ -1,0 +1,15 @@
+﻿<Window x:Class="ClientTest.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ClientTest"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="400" Width="400">
+    <Grid>
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+            <Button x:Name="lampButton" Content="Lamba" Click="LampButton_Click" Margin="10"/>
+            <Button x:Name="textButton" Content="Text" Click="TextButton_Click" Margin="10"/>
+        </StackPanel>
+    </Grid>
+</Window>

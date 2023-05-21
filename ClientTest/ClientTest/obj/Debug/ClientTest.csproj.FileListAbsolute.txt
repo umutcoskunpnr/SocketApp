@@ -1,0 +1,15 @@
+C:\Users\Umut-PC\source\repos\ClientTest\ClientTest\bin\Debug\ClientTest.exe.config
+C:\Users\Umut-PC\source\repos\ClientTest\ClientTest\bin\Debug\ClientTest.exe
+C:\Users\Umut-PC\source\repos\ClientTest\ClientTest\bin\Debug\ClientTest.pdb
+C:\Users\Umut-PC\source\repos\ClientTest\ClientTest\obj\Debug\ClientTest.csproj.AssemblyReference.cache
+C:\Users\Umut-PC\source\repos\ClientTest\ClientTest\obj\Debug\MainWindow.g.cs
+C:\Users\Umut-PC\source\repos\ClientTest\ClientTest\obj\Debug\App.g.cs
+C:\Users\Umut-PC\source\repos\ClientTest\ClientTest\obj\Debug\ClientTest_MarkupCompile.cache
+C:\Users\Umut-PC\source\repos\ClientTest\ClientTest\obj\Debug\ClientTest_MarkupCompile.lref
+C:\Users\Umut-PC\source\repos\ClientTest\ClientTest\obj\Debug\MainWindow.baml
+C:\Users\Umut-PC\source\repos\ClientTest\ClientTest\obj\Debug\ClientTest.g.resources
+C:\Users\Umut-PC\source\repos\ClientTest\ClientTest\obj\Debug\ClientTest.Properties.Resources.resources
+C:\Users\Umut-PC\source\repos\ClientTest\ClientTest\obj\Debug\ClientTest.csproj.GenerateResource.cache
+C:\Users\Umut-PC\source\repos\ClientTest\ClientTest\obj\Debug\ClientTest.csproj.CoreCompileInputs.cache
+C:\Users\Umut-PC\source\repos\ClientTest\ClientTest\obj\Debug\ClientTest.exe
+C:\Users\Umut-PC\source\repos\ClientTest\ClientTest\obj\Debug\ClientTest.pdb
